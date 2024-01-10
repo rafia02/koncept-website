@@ -76,6 +76,7 @@ const Footer = () => {
         </div>
       </div>
 
+
       <div className="lg:flex justify-between   items-center pt-7">
         <p className=" xs:text-xs">
           © 2023 Koncept All Rights Reserved. Develop by{" "}
